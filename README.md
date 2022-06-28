@@ -8,7 +8,3 @@ The codes for the work "DAUnet: Dual Attention Enhanced Global-local Fusion Netw
 * [SwinTransformer](https://github.com/microsoft/Swin-Transformer)
 
 ## Citation
-
-```bibtex
-
-```
